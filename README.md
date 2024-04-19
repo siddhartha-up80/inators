@@ -31,6 +31,6 @@ Leverage the power of artificial intelligence and machine learning to drive inno
 We're excited to hear about your project ideas and discuss how we can collaborate. Feel free to reach out to us:
 
 - **Website:** [Inators Fusion](https://inators.vercel.app)
-- **Email:** [info@inators.com](mailto:siddhartha.singh3093@gmail.com)
+- **Email:** [siddhartha.singh3093@gmail.com](mailto:siddhartha.singh3093@gmail.com)
 
 Let's innovate together!
